@@ -1,0 +1,1 @@
+Add files for A2 in this folder. On the desktop client, you just need to press "commit" then "sync branch" to sync things to be up to date. This means we can both be working on the same up to date version all the time - just push and commit your updated stuff when youre done your coding session. 
